@@ -1,5 +1,5 @@
 ﻿#include <iostream>
-#include "Source.h"
+#include "doubler.h"
 
 int i{1};
 
@@ -45,8 +45,8 @@ int main()
    int num2{input2()};
    printValue(num2);
    std::cout<<num1<<" + "<<num2<<" = "<<add(num1,num2)<<'\n';
-   std::cout<<num1<<" * 2 = "<<Source(num1)<<" \n";
-   std::cout<<num2<<" * 2 = "<<Source(num2)<<" \n";
+   std::cout<<num1<<" * 2 = "<<doubler(num1)<<" \n";
+   std::cout<<num2<<" * 2 = "<<doubler(num2)<<" \n";
    return 0;
 }
 
