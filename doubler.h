@@ -1,5 +1,7 @@
-#ifndef doubler
-#define doubler
+#ifndef DOUBLER_H		//Header guard zapobiegajacy zaladowaniu definicji wielokotnie
+#define DOUBLER_H		//Header guard zapobiegajacy zaladowaniu definicji wielokotnie
 int doubler(int x);
-#endif // !
+#endif
+							//inny sposob na header guarding to "#pragma once" ale jest to implementacja z nowych wersji 
+							//kompilatorow i moze czasem nie dzialac
 
