@@ -49,3 +49,18 @@
 2022-10-07 10:37:04.618 DEBUG [24728] [add@33] add(int x,int y) called
 2022-10-07 10:37:04.618 DEBUG [24728] [doubler@10] doubler() called
 2022-10-07 10:37:04.618 DEBUG [24728] [doubler@10] doubler() called
+2022-10-07 12:17:22.910 DEBUG [11920] [main@70] main() called
+2022-10-07 12:17:22.911 DEBUG [11920] [doPrint@15] doPrint() called
+2022-10-07 12:17:22.911 DEBUG [11920] [input1@43] input2() called
+2022-10-07 12:19:26.973 DEBUG [26500] [main@70] main() called
+2022-10-07 12:19:26.973 DEBUG [26500] [doPrint@15] doPrint() called
+2022-10-07 12:19:26.974 DEBUG [26500] [input1@43] input2() called
+2022-10-07 12:19:37.497 DEBUG [26500] [printValue@24] printValue() called
+2022-10-07 12:19:37.497 DEBUG [26500] [input2@56] input2() called
+2022-10-07 12:19:44.699 DEBUG [26500] [printValue@24] printValue() called
+2022-10-07 12:19:44.700 DEBUG [26500] [add@34] add(std::int64_t x,std::int64_t y) called
+2022-10-07 12:19:44.700 DEBUG [26500] [doubler@10] doubler() called
+2022-10-07 12:19:44.700 DEBUG [26500] [doubler@10] doubler() called
+2022-10-07 12:20:19.337 DEBUG [3620] [main@70] main() called
+2022-10-07 12:20:19.337 DEBUG [3620] [doPrint@15] doPrint() called
+2022-10-07 12:20:19.338 DEBUG [3620] [input1@43] input2() called

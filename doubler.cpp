@@ -2,7 +2,7 @@
 #include "doubler.h"
 #include "debug.h"
 #include <plog/Log.h>
-int doubler(int x)
+std::int64_t doubler(std::int64_t x)
 {
 #ifdef ENABLE_DEBUG
    std::cerr<<"doubler(int x) called\n";
