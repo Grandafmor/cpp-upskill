@@ -5,3 +5,12 @@
 2022-10-07 09:39:59.453 DEBUG [22128] [input2@55] input2() called
 2022-10-07 09:40:00.115 DEBUG [22128] [printValue@23] printValue() called
 2022-10-07 09:40:00.115 DEBUG [22128] [add@33] add(int x,int y) called
+2022-10-07 09:43:13.345 DEBUG [21648] [main@69] main() called
+2022-10-07 09:43:13.345 DEBUG [21648] [doPrint@14] doPrint() called
+2022-10-07 09:43:13.346 DEBUG [21648] [input1@42] input2() called
+2022-10-07 09:43:15.080 DEBUG [21648] [printValue@23] printValue() called
+2022-10-07 09:43:15.080 DEBUG [21648] [input2@55] input2() called
+2022-10-07 09:43:15.771 DEBUG [21648] [printValue@23] printValue() called
+2022-10-07 09:43:15.771 DEBUG [21648] [add@33] add(int x,int y) called
+2022-10-07 09:43:15.771 DEBUG [21648] [doubler@10] doubler() called
+2022-10-07 09:43:15.771 DEBUG [21648] [doubler@10] doubler() called
