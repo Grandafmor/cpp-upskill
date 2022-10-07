@@ -14,3 +14,38 @@
 2022-10-07 09:43:15.771 DEBUG [21648] [add@33] add(int x,int y) called
 2022-10-07 09:43:15.771 DEBUG [21648] [doubler@10] doubler() called
 2022-10-07 09:43:15.771 DEBUG [21648] [doubler@10] doubler() called
+2022-10-07 10:20:20.751 DEBUG [4404] [main@69] main() called
+2022-10-07 10:20:20.751 DEBUG [4404] [doPrint@14] doPrint() called
+2022-10-07 10:20:20.751 DEBUG [4404] [input1@42] input2() called
+2022-10-07 10:20:48.092 DEBUG [4404] [printValue@23] printValue() called
+2022-10-07 10:20:48.093 DEBUG [4404] [input2@55] input2() called
+2022-10-07 10:20:48.835 DEBUG [4404] [printValue@23] printValue() called
+2022-10-07 10:20:48.835 DEBUG [4404] [add@33] add(int x,int y) called
+2022-10-07 10:20:48.835 DEBUG [4404] [doubler@10] doubler() called
+2022-10-07 10:20:48.836 DEBUG [4404] [doubler@10] doubler() called
+2022-10-07 10:21:16.657 DEBUG [10512] [main@69] main() called
+2022-10-07 10:21:16.657 DEBUG [10512] [doPrint@14] doPrint() called
+2022-10-07 10:21:16.657 DEBUG [10512] [input1@42] input2() called
+2022-10-07 10:21:21.875 DEBUG [10512] [printValue@23] printValue() called
+2022-10-07 10:21:21.876 DEBUG [10512] [input2@55] input2() called
+2022-10-07 10:21:31.266 DEBUG [25716] [main@69] main() called
+2022-10-07 10:21:31.267 DEBUG [25716] [doPrint@14] doPrint() called
+2022-10-07 10:21:31.267 DEBUG [25716] [input1@42] input2() called
+2022-10-07 10:24:55.609 DEBUG [9760] [main@69] main() called
+2022-10-07 10:26:36.466 DEBUG [9760] [doPrint@14] doPrint() called
+2022-10-07 10:26:36.466 DEBUG [9760] [input1@42] input2() called
+2022-10-07 10:26:40.027 DEBUG [9760] [printValue@23] printValue() called
+2022-10-07 10:26:40.027 DEBUG [9760] [input2@55] input2() called
+2022-10-07 10:26:40.436 DEBUG [9760] [printValue@23] printValue() called
+2022-10-07 10:26:40.436 DEBUG [9760] [add@33] add(int x,int y) called
+2022-10-07 10:26:40.437 DEBUG [9760] [doubler@10] doubler() called
+2022-10-07 10:26:40.437 DEBUG [9760] [doubler@10] doubler() called
+2022-10-07 10:37:00.803 DEBUG [24728] [main@69] main() called
+2022-10-07 10:37:00.804 DEBUG [24728] [doPrint@14] doPrint() called
+2022-10-07 10:37:00.804 DEBUG [24728] [input1@42] input2() called
+2022-10-07 10:37:03.892 DEBUG [24728] [printValue@23] printValue() called
+2022-10-07 10:37:03.892 DEBUG [24728] [input2@55] input2() called
+2022-10-07 10:37:04.618 DEBUG [24728] [printValue@23] printValue() called
+2022-10-07 10:37:04.618 DEBUG [24728] [add@33] add(int x,int y) called
+2022-10-07 10:37:04.618 DEBUG [24728] [doubler@10] doubler() called
+2022-10-07 10:37:04.618 DEBUG [24728] [doubler@10] doubler() called
