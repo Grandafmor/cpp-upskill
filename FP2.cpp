@@ -1,6 +1,6 @@
 ﻿#include <iostream>
 #include "doubler.h"
-#define ENABLE_DEBUG
+#include "debug.h"
 
 int i{1};
 
