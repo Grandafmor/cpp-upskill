@@ -1,0 +1,7 @@
+﻿2022-10-07 09:39:54.286 DEBUG [22128] [main@69] main() called
+2022-10-07 09:39:54.290 DEBUG [22128] [doPrint@14] doPrint() called
+2022-10-07 09:39:54.290 DEBUG [22128] [input1@42] input2() called
+2022-10-07 09:39:59.453 DEBUG [22128] [printValue@23] printValue() called
+2022-10-07 09:39:59.453 DEBUG [22128] [input2@55] input2() called
+2022-10-07 09:40:00.115 DEBUG [22128] [printValue@23] printValue() called
+2022-10-07 09:40:00.115 DEBUG [22128] [add@33] add(int x,int y) called
